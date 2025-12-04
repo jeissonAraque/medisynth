@@ -1,0 +1,12 @@
+# PyTorch (instalar manual según GPU/CUDA)
+# pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+gradio==4.44.0
+diffusers==0.30.0
+transformers==4.42.4
+accelerate==0.34.2
+peft==0.11.1
+safetensors==0.4.4
+torchvision==0.18.0
+numpy==1.26.4
+Pillow==10.3.0
